@@ -10,6 +10,6 @@ Basically all you need to do is
 
 3. choose a file location to save the file.
 
-Dependency on : xlwt, BeautifulSoup.
+Dependency on : xlwt, BeautifulSoup and python 2.x.
 
 Let me know how it goes and keep smiling. :)
